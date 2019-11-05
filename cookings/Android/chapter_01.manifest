@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 2002489349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22c3176a9bc41fcb065d756d9f2e7e78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68212f235a0d1a276e58e54d4b8ae15a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66c05ee0ca6ba4b9092fee8d918a66f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46d5cd211685e44fe8c04408c43eeeb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 001165524cf774c0fa5c5b183a153482, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3846d3d2c6dd1446b93923cb2281b493, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6422ff2a213743cd984161f2142bd50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05a3c8777fda443c5b77fedb535955cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6507dd7e152842749a593cc8534cd0b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d19b168f33b8491086263bfb80b5aee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c10acb815e6240279fa8ff0c03846c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e386cda9410514b99a3948688616b861, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bce9dc95d6af44b7b8d50878c13d40a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5578d1dae33014485a152f3a0b0c05e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e20f31fca1a884105972dae15e81a9b4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Games/Configs/DailyConfigs.asset
+- Assets/Resources/Games/Configs/LevelConfigs.asset
+- Assets/DataLocal/Chapter_01/MapConfigs.asset
+- Assets/Resources/Games/Configs/KitchenConfigs.asset
+- Assets/DataLocal/Chapter_01/StoryConfigs.asset
+- Assets/Resources/Games/Configs/ShopConfigs.asset
+- Assets/DataLocal/Chapter_01/DayConfigs.asset
+- Assets/DataLocal/Chapter_01/ConversationConfigs.asset
+- Assets/Resources/Games/Configs/CookingNodeConfigs.asset
+Dependencies: []

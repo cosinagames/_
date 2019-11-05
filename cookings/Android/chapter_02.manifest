@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3529349670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af7edfc83c9f226d43ca95f7cca619b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e72de0534d2aa36bcb9d6209b04b6a16
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66c05ee0ca6ba4b9092fee8d918a66f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 001165524cf774c0fa5c5b183a153482, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6422ff2a213743cd984161f2142bd50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05a3c8777fda443c5b77fedb535955cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d19b168f33b8491086263bfb80b5aee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c10acb815e6240279fa8ff0c03846c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5578d1dae33014485a152f3a0b0c05e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e20f31fca1a884105972dae15e81a9b4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DataLocal/Chapter_02/DayConfigs.asset
+- Assets/DataLocal/Chapter_02/MapConfigs.asset
+- Assets/DataLocal/Chapter_02/StoryConfigs.asset
+- Assets/DataLocal/Chapter_02/ConversationConfigs.asset
+Dependencies: []
